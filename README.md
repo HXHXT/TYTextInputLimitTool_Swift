@@ -1,7 +1,7 @@
 # TYTextInputLimitTool_Swift
 A tool to limit the type and length of text, support Objective-C and Swift.
 
-You can find a Objective-C version here [TYTextInputLimitTool](https://github.com/HXHXT/TYTextInputLimitTool)
+You can find a Objective-C version here [TYTextInputLimitTool](https://github.com/HXHXT/TYTextLimitTool)
 
 ## Introduce
 
